@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\happy\\Desktop\\TW-Homework\\Tw-Homework\\Tw-Homework.csproj": {}
+    "C:\\Users\\happy\\Desktop\\Tw-Homework\\Tw-Homework\\Tw-Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\happy\\Desktop\\TW-Homework\\Tw-Homework\\Tw-Homework.csproj": {
+    "C:\\Users\\happy\\Desktop\\Tw-Homework\\Tw-Homework\\Tw-Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\happy\\Desktop\\TW-Homework\\Tw-Homework\\Tw-Homework.csproj",
+        "projectUniqueName": "C:\\Users\\happy\\Desktop\\Tw-Homework\\Tw-Homework\\Tw-Homework.csproj",
         "projectName": "Tw-Homework",
-        "projectPath": "C:\\Users\\happy\\Desktop\\TW-Homework\\Tw-Homework\\Tw-Homework.csproj",
+        "projectPath": "C:\\Users\\happy\\Desktop\\Tw-Homework\\Tw-Homework\\Tw-Homework.csproj",
         "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\happy\\Desktop\\TW-Homework\\Tw-Homework\\obj\\",
+        "outputPath": "C:\\Users\\happy\\Desktop\\Tw-Homework\\Tw-Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config",
