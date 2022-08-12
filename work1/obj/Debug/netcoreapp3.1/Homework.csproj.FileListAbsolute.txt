@@ -1,0 +1,13 @@
+C:\Users\happy\Desktop\Tw-Homework\work1\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\happy\Desktop\Tw-Homework\work1\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\happy\Desktop\Tw-Homework\work1\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\happy\Desktop\Tw-Homework\work1\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\happy\Desktop\Tw-Homework\work1\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\happy\Desktop\Tw-Homework\work1\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\happy\Desktop\Tw-Homework\work1\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache

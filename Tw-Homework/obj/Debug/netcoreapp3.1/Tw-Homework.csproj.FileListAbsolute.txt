@@ -12,17 +12,3 @@ C:\Users\happy\source\repos\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-H
 C:\Users\happy\source\repos\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.dll
 C:\Users\happy\source\repos\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.pdb
 C:\Users\happy\source\repos\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.genruntimeconfig.cache
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.csproj.AssemblyReference.cache
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.AssemblyInfoInputs.cache
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.AssemblyInfo.cs
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.csproj.CoreCompileInputs.cache
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.dll
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.pdb
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\bin\Debug\netcoreapp3.1\Tw-Homework.exe
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\bin\Debug\netcoreapp3.1\Tw-Homework.deps.json
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\bin\Debug\netcoreapp3.1\Tw-Homework.runtimeconfig.json
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\bin\Debug\netcoreapp3.1\Tw-Homework.runtimeconfig.dev.json
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\bin\Debug\netcoreapp3.1\Tw-Homework.dll
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\bin\Debug\netcoreapp3.1\Tw-Homework.pdb
-C:\Users\happy\Desktop\Tw-Homework\Tw-Homework\obj\Debug\netcoreapp3.1\Tw-Homework.genruntimeconfig.cache

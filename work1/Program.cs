@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tw-Homework
+namespace Homework
 {
     class Program
     {
